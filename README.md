@@ -1,6 +1,6 @@
-# RansomSweeper---A-Crypto-Challenge-Adventure-
+# RansomSweeper A Crypto Challenge Adventure
 Welcome to **RansomSweeper**, a project that combines the thrilling world of ransomware with the classic game of Minesweeper! Dive into a creative and educational exploration of how ransomware works and challenge your wits in a game of skill and strategy.
-![RansomSweeper](C:\Users\ASUS\Desktop\example.png)
+![RansomSweeper](screenshot.png)
 
 ## Table of Contents
 - [Overview](#overview)
@@ -48,12 +48,18 @@ To create the Minesweeper game, follow these steps:
 2. Open your command prompt and navigate to the project directory using the cd command.
 
 3. Execute the following command:
- ```bash
-   build_minesweeper.bat
+   ```bash
+     build_minesweeper.bat
+ 
 This command compiles the Minesweeper game and generates the executable file minesweeper/minesweeper.exe.
 
-### Building Minesweeper Game
-Launch the Minesweeper game by running the minesweeper.exe file. Test your strategy and logic skills, and once you win, you can decrypt your files and outsmart the ransomware.
+### Playing Minesweeper Game
+Launch the Minesweeper game by running the minesweeper/minesweeper.exe file. Test your strategy and logic skills, and once you win, you can decrypt your files and outsmart the ransomware (the encrypted file (.mohamed) has to be in the same directory as you minesweeper game in order to decrypte and restor them).
+![RansomSweeper](screenshot2.png)
+
+## Disclaimer
+**Important Notice:** The **RansomSweeper** project and its included code are meant for educational and research purposes only (and for fun). This code, especially the ransomware component, is provided for educational insights into cybersecurity, encryption, and game development. The developer and maintainer of this project do not endorse or support any malicious or illegal use of this code.
+
 
 
 
