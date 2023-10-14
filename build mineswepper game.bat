@@ -1,0 +1,2 @@
+g++ -std=c++17 -o minesweeper/minesweeper.exe minesweeper/src/*.cpp -I"C:\Users\ASUS\SFML\include" -I"minesweeper/include"  -L"C:\Users\ASUS\SFML\lib" -lsfml-main -lsfml-system -lsfml-graphics -lsfml-audio -lsfml-window -lm -lssl -lcrypto
+@pause
