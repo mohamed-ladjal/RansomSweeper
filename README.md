@@ -7,6 +7,7 @@ Welcome to **RansomSweeper**, a project that combines the thrilling world of ran
 [![Watch the Video Demo](screenshot.png)](https://www.youtube.com/watch?v=nngkiTYDoIo)
 
 </div>
+
 ## Table of Contents
 - [Overview](#overview)
 - [Ransomware](#ransomware)
