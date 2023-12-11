@@ -1,8 +1,12 @@
 # RansomSweeper A Crypto Challenge Adventure
 Welcome to **RansomSweeper**, a project that combines the thrilling world of ransomware with the classic game of Minesweeper! Dive into a creative and educational exploration of how ransomware works and challenge your wits in a game of skill and strategy.
-![RansomSweeper](screenshot.png)
-**Watch the Video Demo**
-[![Watch the Video Demo](https://img.youtube.com/vi/nngkiTYDoIo/0.jpg)](https://www.youtube.com/watch?v=nngkiTYDoIo)
+<div align="center">
+
+## Watch the Video Demo
+
+[![Watch the Video Demo](screenshot.png)](https://www.youtube.com/watch?v=nngkiTYDoIo)
+
+</div>
 ## Table of Contents
 - [Overview](#overview)
 - [Ransomware](#ransomware)
